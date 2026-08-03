@@ -3,27 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
-        "cfargotunnel.com",
-        "argotunnel.com",
-        "playstation.com",
-        "playstation.net",
-        "sony.com",
-        "sony.net",
-        "sonyentertainmentnetwork.com",
-        "scea.com",
-        "scedev.net",
-        "pscdn.co",
-        "playstationnetwork.com",
-        "obc.zone",
-        "aws.neon.tech",
-        "upstash.io",
-        "1ms.run",
-        "ibllc.com",
-        "docker.jiaxin.site",
-        "tokenrouter.com",
-        "xiaomimimo.com",
-        "gh-proxy.org",
-        "download-cdn.jetbrains.com"
+        "cfargotunnel.com", "argotunnel.com", "playstation.com", "playstation.net", "sony.com", "sony.net", "sonyentertainmentnetwork.com", "scea.com", "scedev.net", "pscdn.co", "playstationnetwork.com", "obc.zone", "grafana.net", "zspace.cn", "aws.neon.tech", "upstash.io", "1ms.run", "ibllc.com", "docker.jiaxin.site", "tokenrouter.com", "xiaomimimo.com", "gh-proxy.org", "download-cdn.jetbrains.com"
       ]
     }
   ]
