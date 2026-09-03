@@ -3,7 +3,36 @@
   "rules": [
     {
       "domain_suffix": [
-        "docker.io", "docker.com", "ghcr.io", "quay.io", "gcr.io", "pkg.dev", "npmjs.org", "yarnpkg.com", "nodejs.org", "golang.org", "goproxy.io", "goproxy.cn", "maven.org", "gradle.org", "pypi.org", "pythonhosted.org", "crates.io", "rubygems.org", "nuget.org", "packagist.org"
+        "docker.io",
+        "docker.com",
+        "ghcr.io",
+        "quay.io",
+        "gcr.io",
+        "pkg.dev",
+        "npmjs.org",
+        "yarnpkg.com",
+        "nodejs.org",
+        "golang.org",
+        "goproxy.io",
+        "goproxy.cn",
+        "maven.org",
+        "maven.apache.org",
+        "gradle.org",
+        "pypi.org",
+        "pythonhosted.org",
+        "crates.io",
+        "rubygems.org",
+        "nuget.org",
+        "packagist.org",
+        "dl.google.com",
+        "maven.google.com",
+        "repo.maven.apache.org",
+        "repo1.maven.org",
+        "plugins.gradle.org",
+        "jitpack.io",
+        "maven.pkg.jetbrains.space",
+        "repo.spring.io",
+        "repository.apache.org"
       ]
     }
   ]
