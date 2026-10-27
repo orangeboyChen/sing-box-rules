@@ -33,6 +33,7 @@
         "maven.pkg.jetbrains.space",
         "repo.spring.io",
         "repository.apache.org",
+        "archive.ubuntu.com",
         "api.adoptium.net",
         "adoptium.net"
       ],
